@@ -1,0 +1,6 @@
+__pycache__
+db.sqlite3
+pycache
+migrations
+.dockerignore
+Dockerfile
